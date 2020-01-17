@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fef7d8e-e711-4134-a0d5-68cbcf6ad341" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="coupon_system/invalid/Spring" />
+      <facet id="coupon_system/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TbibKAEqnmZajnzFt6q1nXX82Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.CouponSystemApplication">
+    <configuration name="CouponSystemApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coupon_system.CouponSystemApplication" />
+      <module name="coupon_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coupon_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CouponSystemApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coupon_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="coupon_system" />
+      <option name="MAIN_CLASS_NAME" value="coupon_system.CouponSystemApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CouponSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon_system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="coupon_system.CouponSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CouponSystemApplication" />
+        <item itemvalue="JUnit.CouponSystemApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fef7d8e-e711-4134-a0d5-68cbcf6ad341" name="Default Changelist" comment="" />
+      <created>1554446314702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554446314702</updated>
+      <workItem from="1554446316035" duration="5482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5482000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579276886200">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state x="450" y="168" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579276886200" />
+    <state x="489" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1579121954668">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state x="489" y="75" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579121954668" />
+    <state width="1322" height="571" key="GridCell.Tab.0.bottom" timestamp="1579276370986">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.1365.728@-1920.0.1536.816" timestamp="1579272041376" />
+    <state width="1322" height="571" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579276370986" />
+    <state width="1322" height="223" key="GridCell.Tab.0.bottom/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577277994510" />
+    <state width="1322" height="571" key="GridCell.Tab.0.center" timestamp="1579276370986">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.1365.728@-1920.0.1536.816" timestamp="1579272041376" />
+    <state width="1322" height="571" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579276370986" />
+    <state width="1322" height="223" key="GridCell.Tab.0.center/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577277994510" />
+    <state width="1322" height="571" key="GridCell.Tab.0.left" timestamp="1579276370986">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.1365.728@-1920.0.1536.816" timestamp="1579272041376" />
+    <state width="1322" height="571" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579276370986" />
+    <state width="1322" height="223" key="GridCell.Tab.0.left/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577277994510" />
+    <state width="1322" height="571" key="GridCell.Tab.0.right" timestamp="1579276370986">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.1365.728@-1920.0.1536.816" timestamp="1579272041376" />
+    <state width="1322" height="571" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579276370986" />
+    <state width="1322" height="223" key="GridCell.Tab.0.right/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577277994510" />
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1577277994510">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577277994510" />
+    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1577277994510">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.center/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577277994510" />
+    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1577277994510">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.left/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577277994510" />
+    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1577277994510">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.right/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577277994510" />
+    <state x="164" y="0" key="SettingsEditor" timestamp="1579095154089">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state x="164" y="0" key="SettingsEditor/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579095154089" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1577362009029">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/-1920.70.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1577362009029" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/coupon_system$CouponSystemApplication.ic" NAME="CouponSystemApplication Coverage Results" MODIFIED="1577277949509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>coupon_system.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/coupon_system$CouponSystemApplicationTests.ic" NAME="CouponSystemApplicationTests Coverage Results" MODIFIED="1573736679039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>coupon_system.*</FILTER>
+    </SUITE>
+  </component>
+</project>

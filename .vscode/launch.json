@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CouponSystemApplication<coupon_system>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "coupon_system.CouponSystemApplication",
+            "projectName": "coupon_system",
+            "args": ""
+        }
+    ]
+}

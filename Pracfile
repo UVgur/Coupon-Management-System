@@ -1,0 +1,2 @@
+
+java -Dserver.port=$PORT $JAVA_OPTS -jar target/coupon_system-0.0.1-SNAPSHOT.jar
