@@ -44,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PPMTool - Heroku" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -141,6 +141,10 @@
       <screen x="0" y="0" width="1365" height="728" />
     </state>
     <state x="489" y="75" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579121954668" />
+    <state x="464" y="120" key="FileChooserDialogImpl" timestamp="1579289116697">
+      <screen x="0" y="0" width="1365" height="728" />
+    </state>
+    <state x="464" y="120" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.1365.728@0.0.1365.728" timestamp="1579289116697" />
     <state width="1322" height="571" key="GridCell.Tab.0.bottom" timestamp="1579276370986">
       <screen x="0" y="0" width="1365" height="728" />
     </state>
