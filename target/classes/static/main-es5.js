@@ -4971,7 +4971,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! C:\Users\yUValG\Desktop\couponSystem\src\main.ts */
+    /*! C:\Users\yUValG\Desktop\Coupon-System\Angular\src\main.ts */
     "./src/main.ts");
     /***/
   }

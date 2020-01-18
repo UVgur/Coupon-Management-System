@@ -400,11 +400,11 @@
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! C:\Users\yUValG\Desktop\couponSystem\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */
+    /*! C:\Users\yUValG\Desktop\Coupon-System\Angular\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */
     "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
 
     module.exports = __webpack_require__(
-    /*! C:\Users\yUValG\Desktop\couponSystem\src\styles.css */
+    /*! C:\Users\yUValG\Desktop\Coupon-System\Angular\src\styles.css */
     "./src/styles.css");
     /***/
   }
