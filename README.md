@@ -1,4 +1,4 @@
-# Coupon-System-Project
+# Coupon System Project
 This project acts as a Micro Service (api),
 which add's the functionalty of 'Coupon System' into a larger applicatio(e-store)
     Full-stack Java Project, John Bryce - Java course (end) project.
