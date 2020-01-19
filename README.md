@@ -1,8 +1,12 @@
 # Coupon System Project
-This project acts as a Micro Service (api),
-which add's the functionalty of 'Coupon System' into a larger applicatio(e-store)
-
     Full-stack Java Project, John Bryce - Java course (end) project.
+The Coupon System Project acts as a Micro Service,
+that shows an implementation which allows companies to CRUD coupons for their customers.
+then the Customers can purchase and use them, so they get a discount in that company's E-Store.
+The Admin of the system have some extra utilities, such as:
+        
+    monitor and view information that is gathered by the transactions.
+
 
 
 Used technologies:
@@ -34,3 +38,6 @@ Guide How-To-Use:
     then depends on the ClientType you choose for your 'USER',
     you can interact with the Coupon functionalty(view, buy, sell...)
   
+
+
+
