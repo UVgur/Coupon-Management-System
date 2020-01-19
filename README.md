@@ -7,8 +7,8 @@ which add's the functionalty of 'Coupon System' into a larger applicatio(e-store
 
 Used technologies:
 
-    Backend: Spring boot & Spring-Data-JPA(Hibernate).
-      -Libraries: web, 
+    Backend: Spring Boot.
+      -Libraries: web, spring-data-JPA(Hibernate).
       -Build tool: Maven.
     Frontend: Angular 7.
       -Libraries: animate.css, materialize-css.
