@@ -1,5 +1,5 @@
 # Coupon-System-Project
-Full-stack Java Project, John Bryce - Java course (end) project.
+    Full-stack Java Project, John Bryce - Java course (end) project.
 
 
 This project acts as a Micro Service (api),
@@ -26,13 +26,13 @@ main entities(*):
 
 Guide How-To-Use:
 
-  Register your 'USER' via register page,choose:
-    -username
-    -email
-    -password
-    -ClientType(*)
-  Then Login with that 'USER'.
+    Register your 'USER' via register page,choose:
+        -username
+        -email
+        -password
+        -ClientType(*)
+    Then Login with that 'USER'.
   
- then depends on the ClientType you choose for your 'USER',
- you can interact with the Coupon functionalty(view, buy, sell...)
+    then depends on the ClientType you choose for your 'USER',
+    you can interact with the Coupon functionalty(view, buy, sell...)
   
