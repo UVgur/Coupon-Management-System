@@ -40,5 +40,39 @@ Guide How-To-Use:
     you can interact with the Coupon functionalty(view, buy, sell...)
   
 
+# Coupon System
+
+Project of full-stack Java course.
+
+About the project:
+There are three entities:
+
+1. Admin – can create, read, update, delete -> companies, coupons and customers.
+2. Company – can create, read, update, delete coupons.
+3. Customer – can check available coupons, purchase them and check list of purchased coupons.
+
+Used technologies:
+Backend:
+
+- Data access: Spring boot & Hibernate.
+- Database: MySQL.
+- Build tool: Maven.
+
+Frontend:
+
+- Framework: Angular 7.
+- Libraries: animate.css, materialize-css.
+- Build tool: npm.
+
+Instructions:
+
+1. Go to "Client" folder and run "npm i" to install Node dependencies.
+2. Go to Angular -> use the command "ng serve" to run the client side.(port:4200)
+3. Go to "Server" folder and run the Spring application. (port:8080)
+4. after that you have to run MySQL server.
+
+Now you can login like Admin
+( Username and Password – “admin”)
+|| just register new company or customer.
 
 
